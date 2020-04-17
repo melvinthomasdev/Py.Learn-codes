@@ -1,0 +1,39 @@
+stack - LIFO - Last In First Out
+
+[12,'m','e','v','i','n','a']
+	insert
+	pop
+	peek
+	view
+	a
+	n
+	i
+	v
+	e
+	m
+	12
+
+
+queue
+	-normal que
+	- circular queue
+
+
+matrix
+[1,2,3]		[2,3,5]		[3,5,8]
+[4,5,6]   +  	[1,6,3]  =  	[5,11,9]
+[7,8,9]		[2,4,6]
+[2,3,5]		[5,7,3]
+[ [1,2,3] [4,5,6] [7,8,9] [] ] len=rows
+
+[[1]]
+
+[1,2,3]  d1 = 1,5,3
+[4,5,6]	 d2 = 3,5,7
+[7,8,9]
+
+
+	-add
+	-transpose
+	-diagonals
+	-maultiply
